@@ -9,6 +9,7 @@ on:
       - 'six_month_strategy_trials.py'
       - 'candidate_risk_analysis.py'
       - 'minute_momentum_research.py'
+      - 'robustness_1000.py'
       - '.github/workflows/paper-test.yml'
   schedule:
     - cron: '12 * * * *'
@@ -32,6 +33,8 @@ jobs:
           if [ ! -f six_month_rsi_report.json ]; then python six_month_rsi_test.py; fi
       - name: Compare 1000 six-month strategies
         run: python six_month_strategy_trials.py
+      - name: Run 1000 cost-aware RSI and SMA robustness tests
+        run: python robustness_1000.py
       - name: Analyze profitable six-month candidates
         run: python candidate_risk_analysis.py
       - name: Test minute momentum prototypes
@@ -42,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add backtest_report.json forward_state.json strategy_trials.json six_month_rsi_report.json six_month_strategy_trials.json candidate_risk_report.json minute_momentum_report.json
+          git add backtest_report.json forward_state.json strategy_trials.json six_month_rsi_report.json six_month_strategy_trials.json candidate_risk_report.json minute_momentum_report.json robustness_1000_report.json
           if ! git diff --cached --quiet; then
             git commit -m "Update simulated trading results"
             git push
