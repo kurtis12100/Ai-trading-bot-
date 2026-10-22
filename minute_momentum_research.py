@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 
 END = dt.datetime(2026, 10, 22, 14, 56, tzinfo=dt.timezone.utc)
-START = END - dt.timedelta(days=2)
+START = END - dt.timedelta(days=30)
 FEE = .001
 SLIPPAGE = .0005
 
@@ -18,7 +18,7 @@ def bars():
     cursor = int(START.timestamp())
     end = int(END.timestamp())
     while cursor < end:
-        stop = min(cursor + 240 * 60, end)
+        stop = min(cursor + 300 * 60, end)
         params = urllib.parse.urlencode({
             "start": dt.datetime.fromtimestamp(cursor, dt.timezone.utc).isoformat(),
             "end": dt.datetime.fromtimestamp(stop, dt.timezone.utc).isoformat(),
@@ -42,7 +42,7 @@ def bars():
         cursor = stop
         time.sleep(.35)
     result = [out[t] for t in sorted(out)]
-    if len(result) < 2500:
+    if len(result) < 30000:
         raise RuntimeError("Insufficient minute bars")
     return result
 
@@ -94,7 +94,7 @@ if __name__ == "__main__":
               "period_start_utc": START.isoformat(), "period_end_utc": END.isoformat(),
               "bars": len(data), "assumed_fee_per_side": FEE,
               "assumed_slippage_per_side": SLIPPAGE,
-              "warning": "Only two days of historical crypto data. Not validated for stocks or real execution; signals use candle close, so fills may be optimistic.",
+              "warning": "Thirty days of historical crypto data. Not validated for stocks or real execution; signals use candle close, so fills may be optimistic.",
               "scalper": test(data, "scalper"),
               "explosive": test(data, "explosive")}
     Path("minute_momentum_report.json").write_text(json.dumps(report,indent=2)+"\n")
