@@ -1,0 +1,166 @@
+{
+  "note": "20 in-sample historical trials; not independent validation or a profit forecast",
+  "baseline_equity_usd": 9935.4,
+  "results": [
+    {
+      "short": 5,
+      "long": 20,
+      "allocation": 0.05,
+      "equity_usd": 9974.32,
+      "profit_usd": -25.68,
+      "trades": 20
+    },
+    {
+      "short": 5,
+      "long": 20,
+      "allocation": 0.1,
+      "equity_usd": 9948.7,
+      "profit_usd": -51.3,
+      "trades": 20
+    },
+    {
+      "short": 5,
+      "long": 30,
+      "allocation": 0.05,
+      "equity_usd": 9977.94,
+      "profit_usd": -22.06,
+      "trades": 12
+    },
+    {
+      "short": 5,
+      "long": 30,
+      "allocation": 0.1,
+      "equity_usd": 9955.92,
+      "profit_usd": -44.08,
+      "trades": 12
+    },
+    {
+      "short": 8,
+      "long": 20,
+      "allocation": 0.05,
+      "equity_usd": 9972.91,
+      "profit_usd": -27.09,
+      "trades": 20
+    },
+    {
+      "short": 8,
+      "long": 20,
+      "allocation": 0.1,
+      "equity_usd": 9945.88,
+      "profit_usd": -54.12,
+      "trades": 20
+    },
+    {
+      "short": 8,
+      "long": 30,
+      "allocation": 0.05,
+      "equity_usd": 9976.2,
+      "profit_usd": -23.8,
+      "trades": 12
+    },
+    {
+      "short": 8,
+      "long": 30,
+      "allocation": 0.1,
+      "equity_usd": 9952.44,
+      "profit_usd": -47.56,
+      "trades": 12
+    },
+    {
+      "short": 10,
+      "long": 20,
+      "allocation": 0.05,
+      "equity_usd": 9967.62,
+      "profit_usd": -32.38,
+      "trades": 20
+    },
+    {
+      "short": 10,
+      "long": 20,
+      "allocation": 0.1,
+      "equity_usd": 9935.33,
+      "profit_usd": -64.67,
+      "trades": 20
+    },
+    {
+      "short": 10,
+      "long": 30,
+      "allocation": 0.05,
+      "equity_usd": 9967.66,
+      "profit_usd": -32.34,
+      "trades": 12
+    },
+    {
+      "short": 10,
+      "long": 30,
+      "allocation": 0.1,
+      "equity_usd": 9935.4,
+      "profit_usd": -64.6,
+      "trades": 12
+    },
+    {
+      "short": 12,
+      "long": 20,
+      "allocation": 0.05,
+      "equity_usd": 9968.17,
+      "profit_usd": -31.83,
+      "trades": 20
+    },
+    {
+      "short": 12,
+      "long": 20,
+      "allocation": 0.1,
+      "equity_usd": 9936.43,
+      "profit_usd": -63.57,
+      "trades": 20
+    },
+    {
+      "short": 12,
+      "long": 30,
+      "allocation": 0.05,
+      "equity_usd": 9968.43,
+      "profit_usd": -31.57,
+      "trades": 12
+    },
+    {
+      "short": 12,
+      "long": 30,
+      "allocation": 0.1,
+      "equity_usd": 9936.94,
+      "profit_usd": -63.06,
+      "trades": 12
+    },
+    {
+      "short": 15,
+      "long": 20,
+      "allocation": 0.05,
+      "equity_usd": 9956.02,
+      "profit_usd": -43.98,
+      "trades": 24
+    },
+    {
+      "short": 15,
+      "long": 20,
+      "allocation": 0.1,
+      "equity_usd": 9912.2,
+      "profit_usd": -87.8,
+      "trades": 24
+    },
+    {
+      "short": 15,
+      "long": 30,
+      "allocation": 0.05,
+      "equity_usd": 9961.42,
+      "profit_usd": -38.58,
+      "trades": 18
+    },
+    {
+      "short": 15,
+      "long": 30,
+      "allocation": 0.1,
+      "equity_usd": 9922.95,
+      "profit_usd": -77.05,
+      "trades": 18
+    }
+  ]
+}
