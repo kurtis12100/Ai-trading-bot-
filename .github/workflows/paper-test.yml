@@ -1,0 +1,29 @@
+name: Paper trading 14-day test
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 * * * *'
+permissions:
+  contents: write
+jobs:
+  paper-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run historical replay if report missing
+        run: |
+          if [ ! -f backtest_report.json ]; then python two_week_test.py backtest; fi
+      - name: Run forward simulation
+        run: python two_week_test.py forward
+      - name: Save simulated results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add backtest_report.json forward_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update simulated trading results"
+            git push
+          fi
