@@ -1,4 +1,4 @@
-"""Twenty distinct paper-only strategy trials. No exchange orders."""
+"""One hundred distinct paper-only strategy trials. No exchange orders."""
 import json
 from pathlib import Path
 from two_week_test import candles, START, FEE, CASH
@@ -24,8 +24,12 @@ def trial(data, short, long, allocation, fee=FEE):
 
 if __name__=="__main__":
     data=candles()
-    configs=[(s,l,a) for s in (5,8,10,12,15) for l in (20,30) for a in (.05,.10)]
+    configs=[(s,l,a) for s in (3,5,8,10,12,15,18,20,24,28) for l in (30,40,50,60,72) for a in (.05,.10)]
     results=[trial(data,*cfg) for cfg in configs]
-    output={"note":"20 in-sample historical trials; not independent validation or a profit forecast","baseline_equity_usd":9935.40,"results":results}
+    output={"note":"100 in-sample historical trials; not independent validation or a profit forecast","baseline_equity_usd":9935.40,"results":results}
     Path("strategy_trials.json").write_text(json.dumps(output,indent=2)+"\n")
-    for r in results: print(r)
+    winners=sorted(results,key=lambda r:r["profit_usd"],reverse=True)
+    output["profitable_count"]=sum(r["profit_usd"]>0 for r in results)
+    output["best_in_sample"]=winners[0]
+    Path("strategy_trials.json").write_text(json.dumps(output,indent=2)+"\n")
+    print(json.dumps({"profitable_count":output["profitable_count"],"best_in_sample":winners[0]},indent=2))
