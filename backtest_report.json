@@ -1,0 +1,70 @@
+{
+  "period": "2026-10-08 through 2026-10-22 UTC",
+  "starting_usd": 10000.0,
+  "ending_equity_usd": 9935.4,
+  "profit_usd": -64.6,
+  "buy_hold_equity_usd": 10100.41,
+  "trades": [
+    {
+      "utc": "2026-10-09T08:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 82631.6
+    },
+    {
+      "utc": "2026-10-12T14:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 82499.0
+    },
+    {
+      "utc": "2026-10-13T09:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 83523.5
+    },
+    {
+      "utc": "2026-10-14T13:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 82257.4
+    },
+    {
+      "utc": "2026-10-15T19:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 82296.6
+    },
+    {
+      "utc": "2026-10-16T17:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 81089.6
+    },
+    {
+      "utc": "2026-10-18T03:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 81851.2
+    },
+    {
+      "utc": "2026-10-18T18:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 81094.1
+    },
+    {
+      "utc": "2026-10-19T02:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 82618.8
+    },
+    {
+      "utc": "2026-10-19T21:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 81938.1
+    },
+    {
+      "utc": "2026-10-20T17:00:00+00:00",
+      "action": "BUY",
+      "price_usd": 82723.5
+    },
+    {
+      "utc": "2026-10-22T06:00:00+00:00",
+      "action": "SELL",
+      "price_usd": 82395.5
+    }
+  ],
+  "assumptions": "0.1% fee; no spread or slippage"
+}
