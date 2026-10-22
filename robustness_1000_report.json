@@ -1,0 +1,222 @@
+{
+  "count": 1000,
+  "market": "BTC-USD",
+  "observed_hourly_candles": 4387,
+  "fee_per_side": 0.001,
+  "slippage_per_side": 0.0005,
+  "fill_model": "next hourly close after signal; approximated",
+  "profitable_both_with_min_4_actions": 0,
+  "best_by_training": {
+    "family": "rsi",
+    "fast": 21,
+    "slow": 30,
+    "threshold": 0.004,
+    "allocation": 0.2,
+    "training": {
+      "profit_usd": 459.12,
+      "equity_usd": 10459.12,
+      "trade_actions": 1,
+      "max_drawdown_pct": 1.513
+    },
+    "validation": {
+      "profit_usd": 0.0,
+      "equity_usd": 10000.0,
+      "trade_actions": 0,
+      "max_drawdown_pct": 0.0
+    }
+  },
+  "top_training": [
+    {
+      "family": "rsi",
+      "fast": 21,
+      "slow": 30,
+      "threshold": 0.004,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 459.12,
+        "equity_usd": 10459.12,
+        "trade_actions": 1,
+        "max_drawdown_pct": 1.513
+      },
+      "validation": {
+        "profit_usd": 0.0,
+        "equity_usd": 10000.0,
+        "trade_actions": 0,
+        "max_drawdown_pct": 0.0
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 21,
+      "slow": 30,
+      "threshold": 0.001,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 420.98,
+        "equity_usd": 10420.98,
+        "trade_actions": 53,
+        "max_drawdown_pct": 1.808
+      },
+      "validation": {
+        "profit_usd": -159.19,
+        "equity_usd": 9840.81,
+        "trade_actions": 46,
+        "max_drawdown_pct": 2.941
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 9,
+      "slow": 30,
+      "threshold": 0.003,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 370.22,
+        "equity_usd": 10370.22,
+        "trade_actions": 56,
+        "max_drawdown_pct": 2.038
+      },
+      "validation": {
+        "profit_usd": -174.43,
+        "equity_usd": 9825.57,
+        "trade_actions": 40,
+        "max_drawdown_pct": 3.055
+      }
+    },
+    {
+      "family": "rsi",
+      "fast": 21,
+      "slow": 30,
+      "threshold": 0.004,
+      "allocation": 0.15,
+      "training": {
+        "profit_usd": 344.34,
+        "equity_usd": 10344.34,
+        "trade_actions": 1,
+        "max_drawdown_pct": 1.135
+      },
+      "validation": {
+        "profit_usd": 0.0,
+        "equity_usd": 10000.0,
+        "trade_actions": 0,
+        "max_drawdown_pct": 0.0
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 21,
+      "slow": 30,
+      "threshold": 0.001,
+      "allocation": 0.15,
+      "training": {
+        "profit_usd": 316.39,
+        "equity_usd": 10316.39,
+        "trade_actions": 53,
+        "max_drawdown_pct": 1.359
+      },
+      "validation": {
+        "profit_usd": -119.21,
+        "equity_usd": 9880.79,
+        "trade_actions": 46,
+        "max_drawdown_pct": 2.213
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 9,
+      "slow": 30,
+      "threshold": 0.004,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 304.41,
+        "equity_usd": 10304.41,
+        "trade_actions": 48,
+        "max_drawdown_pct": 2.222
+      },
+      "validation": {
+        "profit_usd": -119.65,
+        "equity_usd": 9880.35,
+        "trade_actions": 34,
+        "max_drawdown_pct": 3.193
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 12,
+      "slow": 30,
+      "threshold": 0.003,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 289.94,
+        "equity_usd": 10289.94,
+        "trade_actions": 47,
+        "max_drawdown_pct": 2.465
+      },
+      "validation": {
+        "profit_usd": -64.77,
+        "equity_usd": 9935.23,
+        "trade_actions": 34,
+        "max_drawdown_pct": 2.467
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 9,
+      "slow": 30,
+      "threshold": 0.003,
+      "allocation": 0.15,
+      "training": {
+        "profit_usd": 278.54,
+        "equity_usd": 10278.54,
+        "trade_actions": 56,
+        "max_drawdown_pct": 1.532
+      },
+      "validation": {
+        "profit_usd": -130.83,
+        "equity_usd": 9869.17,
+        "trade_actions": 40,
+        "max_drawdown_pct": 2.301
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 15,
+      "slow": 30,
+      "threshold": 0.002,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 275.72,
+        "equity_usd": 10275.72,
+        "trade_actions": 53,
+        "max_drawdown_pct": 2.611
+      },
+      "validation": {
+        "profit_usd": -98.76,
+        "equity_usd": 9901.24,
+        "trade_actions": 40,
+        "max_drawdown_pct": 2.308
+      }
+    },
+    {
+      "family": "sma",
+      "fast": 18,
+      "slow": 30,
+      "threshold": 0.002,
+      "allocation": 0.2,
+      "training": {
+        "profit_usd": 256.79,
+        "equity_usd": 10256.79,
+        "trade_actions": 47,
+        "max_drawdown_pct": 2.428
+      },
+      "validation": {
+        "profit_usd": -111.07,
+        "equity_usd": 9888.93,
+        "trade_actions": 38,
+        "max_drawdown_pct": 2.397
+      }
+    }
+  ],
+  "qualifying": [],
+  "warning": "Validation period reused from earlier experiments; not independent unseen data. Candle-close fill approximation, not live execution."
+}
