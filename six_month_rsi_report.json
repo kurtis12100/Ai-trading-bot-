@@ -1,0 +1,24 @@
+{
+  "market": "BTC-USD",
+  "source": "Coinbase Exchange public hourly historical candles",
+  "start_utc": "2026-04-22T14:56:00+00:00",
+  "end_utc": "2026-10-22T14:56:00+00:00",
+  "strategy": {
+    "family": "rsi",
+    "lookback_hours": 12,
+    "threshold": 0.001,
+    "allocation": 0.2
+  },
+  "starting_cash_usd": 10000,
+  "fee_per_trade": 0.001,
+  "slippage_or_spread_included": false,
+  "observed_hourly_candles": 4387,
+  "expected_hourly_candles_approx": 4392,
+  "strategy_result": {
+    "equity_usd": 9721.09,
+    "profit_usd": -278.91,
+    "trades": 251
+  },
+  "btc_buy_and_hold_return_pct": 3.112,
+  "caveat": "Historical backtest, not a forward result. Coinbase data differs from earlier Kraken test. No slippage/spread modeled. Paper only."
+}
