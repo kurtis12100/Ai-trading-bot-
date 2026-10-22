@@ -1,19 +1,19 @@
 {
   "market": "BTC-USD",
   "source": "Coinbase historical 1-minute bars",
-  "period_start_utc": "2026-10-20T14:56:00+00:00",
+  "period_start_utc": "2026-09-22T14:56:00+00:00",
   "period_end_utc": "2026-10-22T14:56:00+00:00",
-  "bars": 2881,
+  "bars": 43200,
   "assumed_fee_per_side": 0.001,
   "assumed_slippage_per_side": 0.0005,
-  "warning": "Only two days of historical crypto data. Not validated for stocks or real execution; signals use candle close, so fills may be optimistic.",
+  "warning": "Thirty days of historical crypto data. Not validated for stocks or real execution; signals use candle close, so fills may be optimistic.",
   "scalper": {
-    "final_equity_usd": 9956.52,
-    "profit_usd": -43.48,
-    "closed_trades": 12,
-    "winning_trades": 0,
-    "losing_trades": 12,
-    "max_drawdown_pct": 0.435,
+    "final_equity_usd": 9453.82,
+    "profit_usd": -546.18,
+    "closed_trades": 168,
+    "winning_trades": 18,
+    "losing_trades": 150,
+    "max_drawdown_pct": 5.462,
     "open_position": false
   },
   "explosive": {
