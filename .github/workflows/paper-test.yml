@@ -1,6 +1,11 @@
 name: Paper trading 14-day test
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'strategy_trials.py'
+      - '.github/workflows/paper-test.yml'
   schedule:
     - cron: '12 * * * *'
 permissions:
@@ -16,13 +21,15 @@ jobs:
       - name: Run historical replay if report missing
         run: |
           if [ ! -f backtest_report.json ]; then python two_week_test.py backtest; fi
+      - name: Compare 20 paper strategies
+        run: python strategy_trials.py
       - name: Run forward simulation
         run: python two_week_test.py forward
       - name: Save simulated results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add backtest_report.json forward_state.json
+          git add backtest_report.json forward_state.json strategy_trials.json
           if ! git diff --cached --quiet; then
             git commit -m "Update simulated trading results"
             git push
