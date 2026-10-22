@@ -1,0 +1,159 @@
+{
+  "count": 8,
+  "unique_signals": 2,
+  "note": "Positive results are only eight allocation variants of two signal rules. Historical results do not establish profitability.",
+  "candidates": [
+    {
+      "config": {
+        "family": "sma",
+        "fast": 28,
+        "slow": 30,
+        "threshold": 0.002,
+        "allocation": 0.025
+      },
+      "training": {
+        "equity_usd": 10029.57,
+        "max_drawdown_pct": 0.674,
+        "trades": 5
+      },
+      "validation": {
+        "equity_usd": 10001.97,
+        "max_drawdown_pct": 0.217,
+        "trades": 1
+      }
+    },
+    {
+      "config": {
+        "family": "sma",
+        "fast": 28,
+        "slow": 30,
+        "threshold": 0.002,
+        "allocation": 0.05
+      },
+      "training": {
+        "equity_usd": 10058.4,
+        "max_drawdown_pct": 1.344,
+        "trades": 5
+      },
+      "validation": {
+        "equity_usd": 10003.94,
+        "max_drawdown_pct": 0.433,
+        "trades": 1
+      }
+    },
+    {
+      "config": {
+        "family": "sma",
+        "fast": 28,
+        "slow": 30,
+        "threshold": 0.002,
+        "allocation": 0.1
+      },
+      "training": {
+        "equity_usd": 10113.82,
+        "max_drawdown_pct": 2.677,
+        "trades": 5
+      },
+      "validation": {
+        "equity_usd": 10007.88,
+        "max_drawdown_pct": 0.864,
+        "trades": 1
+      }
+    },
+    {
+      "config": {
+        "family": "sma",
+        "fast": 28,
+        "slow": 30,
+        "threshold": 0.002,
+        "allocation": 0.2
+      },
+      "training": {
+        "equity_usd": 10215.84,
+        "max_drawdown_pct": 5.306,
+        "trades": 5
+      },
+      "validation": {
+        "equity_usd": 10015.75,
+        "max_drawdown_pct": 1.715,
+        "trades": 1
+      }
+    },
+    {
+      "config": {
+        "family": "rsi",
+        "fast": 15,
+        "slow": 30,
+        "threshold": 0.004,
+        "allocation": 0.025
+      },
+      "training": {
+        "equity_usd": 10004.32,
+        "max_drawdown_pct": 0.345,
+        "trades": 2
+      },
+      "validation": {
+        "equity_usd": 10009.79,
+        "max_drawdown_pct": 0.053,
+        "trades": 3
+      }
+    },
+    {
+      "config": {
+        "family": "rsi",
+        "fast": 15,
+        "slow": 30,
+        "threshold": 0.004,
+        "allocation": 0.05
+      },
+      "training": {
+        "equity_usd": 10008.64,
+        "max_drawdown_pct": 0.691,
+        "trades": 2
+      },
+      "validation": {
+        "equity_usd": 10019.58,
+        "max_drawdown_pct": 0.106,
+        "trades": 3
+      }
+    },
+    {
+      "config": {
+        "family": "rsi",
+        "fast": 15,
+        "slow": 30,
+        "threshold": 0.004,
+        "allocation": 0.1
+      },
+      "training": {
+        "equity_usd": 10017.27,
+        "max_drawdown_pct": 1.381,
+        "trades": 2
+      },
+      "validation": {
+        "equity_usd": 10039.16,
+        "max_drawdown_pct": 0.212,
+        "trades": 3
+      }
+    },
+    {
+      "config": {
+        "family": "rsi",
+        "fast": 15,
+        "slow": 30,
+        "threshold": 0.004,
+        "allocation": 0.2
+      },
+      "training": {
+        "equity_usd": 10034.55,
+        "max_drawdown_pct": 2.761,
+        "trades": 2
+      },
+      "validation": {
+        "equity_usd": 10078.33,
+        "max_drawdown_pct": 0.424,
+        "trades": 3
+      }
+    }
+  ]
+}
