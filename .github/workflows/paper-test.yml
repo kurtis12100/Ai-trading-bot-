@@ -21,7 +21,7 @@ jobs:
       - name: Run historical replay if report missing
         run: |
           if [ ! -f backtest_report.json ]; then python two_week_test.py backtest; fi
-      - name: Compare 20 paper strategies
+      - name: Compare 1000 paper strategies
         run: python strategy_trials.py
       - name: Run forward simulation
         run: python two_week_test.py forward
