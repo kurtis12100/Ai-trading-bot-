@@ -1,0 +1,161 @@
+{
+  "title": "Leica MC1 Operator Training",
+  "target_minutes": 360,
+  "actual_minutes": 360,
+  "status": "curriculum plan; videos not yet produced",
+  "modules": [
+    {
+      "id": 1,
+      "name": "Introduction and safety",
+      "minutes": 30,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 9
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 12
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "GNSS, RTK and site control",
+      "minutes": 45,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 14
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 18
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Leica MC1 display and setup",
+      "minutes": 50,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 15
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 20
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Design files, surfaces and offsets",
+      "minutes": 50,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 15
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 20
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dozer cut/fill and automatic control",
+      "minutes": 60,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 18
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 24
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 18
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Excavator depth and slopes",
+      "minutes": 55,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 17
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 22
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 16
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Fault finding and grade verification",
+      "minutes": 45,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 14
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 18
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Scenario assessments and final test",
+      "minutes": 25,
+      "segments": [
+        {
+          "type": "virtual-instructor",
+          "minutes": 8
+        },
+        {
+          "type": "realistic-site-demonstration",
+          "minutes": 10
+        },
+        {
+          "type": "guided-practice-and-quiz",
+          "minutes": 7
+        }
+      ]
+    }
+  ],
+  "video_production_notes": "Use AI footage only for illustrative site scenes; reproduce Leica-specific screens only from verified references. Do not represent simulated video as authentic site footage."
+}
