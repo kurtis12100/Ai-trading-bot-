@@ -1,0 +1,30 @@
+name: Three strategy paper comparison
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '25 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: three-strategy-paper
+  cancel-in-progress: false
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Update paper comparison on completed hourly candles
+        run: python comparison_paper.py
+      - name: Commit paper-only state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add comparison_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update three-strategy paper comparison"
+            git pull --rebase
+            git push
+          fi
