@@ -1,0 +1,111 @@
+{
+  "additional_tests": 5000,
+  "combined_with_previous": 10000,
+  "observed_hourly_candles": 4387,
+  "market": "BTC-USD",
+  "fee_per_side": 0.001,
+  "slippage_per_side": 0.0005,
+  "warning": "Retrospective data and reused validation periods; not unseen forward data. Volume is a price-change proxy, not actual volume. No real trades.",
+  "families": {
+    "trend_volatility": {
+      "tests": 1000,
+      "qualified_count": 0,
+      "best_training": {
+        "lookback": 19,
+        "threshold": 0.012,
+        "variant": 0.001,
+        "allocation": 0.2,
+        "training": {
+          "profit_usd": 314.61,
+          "trade_actions": 51,
+          "max_drawdown_pct": 2.044
+        },
+        "validation": {
+          "profit_usd": -391.94,
+          "trade_actions": 41,
+          "max_drawdown_pct": 4.277
+        }
+      }
+    },
+    "bollinger": {
+      "tests": 1000,
+      "qualified_count": 20,
+      "best_training": {
+        "lookback": 17,
+        "threshold": 3,
+        "variant": 0.8,
+        "allocation": 0.2,
+        "training": {
+          "profit_usd": 21.62,
+          "trade_actions": 28,
+          "max_drawdown_pct": 0.934
+        },
+        "validation": {
+          "profit_usd": 68.18,
+          "trade_actions": 18,
+          "max_drawdown_pct": 0.623
+        }
+      }
+    },
+    "macd": {
+      "tests": 1000,
+      "qualified_count": 0,
+      "best_training": {
+        "lookback": 17,
+        "threshold": 0.007,
+        "variant": 0.0005,
+        "allocation": 0.2,
+        "training": {
+          "profit_usd": 595.42,
+          "trade_actions": 21,
+          "max_drawdown_pct": 1.095
+        },
+        "validation": {
+          "profit_usd": -327.35,
+          "trade_actions": 16,
+          "max_drawdown_pct": 3.634
+        }
+      }
+    },
+    "regime": {
+      "tests": 1000,
+      "qualified_count": 0,
+      "best_training": {
+        "lookback": 17,
+        "threshold": 0.015,
+        "variant": 0.001,
+        "allocation": 0.2,
+        "training": {
+          "profit_usd": 325.74,
+          "trade_actions": 41,
+          "max_drawdown_pct": 2.325
+        },
+        "validation": {
+          "profit_usd": -314.52,
+          "trade_actions": 37,
+          "max_drawdown_pct": 3.633
+        }
+      }
+    },
+    "volume": {
+      "tests": 1000,
+      "qualified_count": 25,
+      "best_training": {
+        "lookback": 19,
+        "threshold": 4,
+        "variant": 0.002,
+        "allocation": 0.2,
+        "training": {
+          "profit_usd": 405.04,
+          "trade_actions": 56,
+          "max_drawdown_pct": 1.264
+        },
+        "validation": {
+          "profit_usd": -147.87,
+          "trade_actions": 28,
+          "max_drawdown_pct": 1.957
+        }
+      }
+    }
+  }
+}
