@@ -1,0 +1,30 @@
+name: Seven-day three-strategy backtest
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'seven_day_comparison.py'
+      - '.github/workflows/seven-day-comparison.yml'
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Backtest Oct 18-24 with fees and slippage
+        run: python seven_day_comparison.py
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seven_day_comparison_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record Oct 18-24 three-strategy results"
+            git pull --rebase
+            git push
+          fi
