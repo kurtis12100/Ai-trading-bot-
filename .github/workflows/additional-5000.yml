@@ -1,0 +1,31 @@
+name: Additional 5000 strategy backtests
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'additional_5000.py'
+      - '.github/workflows/additional-5000.yml'
+permissions:
+  contents: write
+jobs:
+  historical-comparison:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run 5000 additional configurations
+        run: python additional_5000.py
+      - name: Save report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add additional_5000_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save additional 5000 backtest results"
+            git pull --rebase
+            git push
+          fi
