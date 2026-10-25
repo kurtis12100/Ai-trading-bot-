@@ -1,0 +1,127 @@
+{
+  "period_utc": "2026-10-18 00:00 through 2026-10-24 23:00",
+  "starting_usd_per_strategy": 10000.0,
+  "results": {
+    "sma": {
+      "ending_equity_usd": 9955.9,
+      "profit_usd": -44.1,
+      "trade_actions": 8,
+      "completed_round_trips": 4,
+      "max_drawdown_pct": 0.45,
+      "open_position": false,
+      "trades": [
+        {
+          "utc": 1792292400,
+          "side": "BUY",
+          "price": 81892.13
+        },
+        {
+          "utc": 1792346400,
+          "side": "SELL",
+          "price": 81053.55
+        },
+        {
+          "utc": 1792375200,
+          "side": "BUY",
+          "price": 82660.11
+        },
+        {
+          "utc": 1792443600,
+          "side": "SELL",
+          "price": 81897.13
+        },
+        {
+          "utc": 1792515600,
+          "side": "BUY",
+          "price": 82764.86
+        },
+        {
+          "utc": 1792648800,
+          "side": "SELL",
+          "price": 82354.3
+        },
+        {
+          "utc": 1792753200,
+          "side": "BUY",
+          "price": 81662.31
+        },
+        {
+          "utc": 1792792800,
+          "side": "SELL",
+          "price": 80697.63
+        }
+      ]
+    },
+    "bollinger": {
+      "ending_equity_usd": 9997.99,
+      "profit_usd": -2.01,
+      "trade_actions": 6,
+      "completed_round_trips": 3,
+      "max_drawdown_pct": 0.212,
+      "open_position": false,
+      "trades": [
+        {
+          "utc": 1792332000,
+          "side": "BUY",
+          "price": 81035.1
+        },
+        {
+          "utc": 1792360800,
+          "side": "SELL",
+          "price": 81623.37
+        },
+        {
+          "utc": 1792479600,
+          "side": "BUY",
+          "price": 81495.23
+        },
+        {
+          "utc": 1792501200,
+          "side": "SELL",
+          "price": 81994.58
+        },
+        {
+          "utc": 1792782000,
+          "side": "BUY",
+          "price": 81217.99
+        },
+        {
+          "utc": 1792879200,
+          "side": "SELL",
+          "price": 80455.55
+        }
+      ]
+    },
+    "rsi_trend": {
+      "ending_equity_usd": 9992.01,
+      "profit_usd": -7.99,
+      "trade_actions": 4,
+      "completed_round_trips": 2,
+      "max_drawdown_pct": 0.08,
+      "open_position": false,
+      "trades": [
+        {
+          "utc": 1792432800,
+          "side": "BUY",
+          "price": 81908.23
+        },
+        {
+          "utc": 1792436400,
+          "side": "SELL",
+          "price": 81731.31
+        },
+        {
+          "utc": 1792440000,
+          "side": "BUY",
+          "price": 81953.46
+        },
+        {
+          "utc": 1792450800,
+          "side": "SELL",
+          "price": 81802.78
+        }
+      ]
+    }
+  },
+  "assumptions": "Hourly candle-close simulated execution; 0.1% fee and 0.05% slippage each side; 10% cash allocation; close-based 3% stop; 2% UTC-day loss limit. Retrospective, not independent forward validation. No real orders."
+}
