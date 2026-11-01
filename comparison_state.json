@@ -5,8 +5,8 @@
       "cash": 8828.685229244724,
       "btc": 0.012652905512662276,
       "entry": 77451.3063,
-      "day": "2026-10-31",
-      "day_start_equity": 9809.65025471636,
+      "day": "2026-11-01",
+      "day_start_equity": 9810.002826218619,
       "trades": [
         {
           "utc": 1790665200,
@@ -3456,6 +3456,14 @@
         {
           "utc": 1793484000,
           "equity": 9808.03
+        },
+        {
+          "utc": 1793487600,
+          "equity": 9808.49
+        },
+        {
+          "utc": 1793491200,
+          "equity": 9810.0
         }
       ]
     },
@@ -3463,8 +3471,8 @@
       "cash": 9931.272148704362,
       "btc": 0,
       "entry": null,
-      "day": "2026-10-31",
-      "day_start_equity": 9932.7364035502,
+      "day": "2026-11-01",
+      "day_start_equity": 9931.272148704362,
       "trades": [
         {
           "utc": 1790560800,
@@ -6879,6 +6887,14 @@
         {
           "utc": 1793484000,
           "equity": 9931.27
+        },
+        {
+          "utc": 1793487600,
+          "equity": 9931.27
+        },
+        {
+          "utc": 1793491200,
+          "equity": 9931.27
         }
       ]
     },
@@ -6886,7 +6902,7 @@
       "cash": 9985.212396053119,
       "btc": 0,
       "entry": null,
-      "day": "2026-10-31",
+      "day": "2026-11-01",
       "day_start_equity": 9985.212396053119,
       "trades": [
         {
@@ -10172,11 +10188,19 @@
         {
           "utc": 1793484000,
           "equity": 9985.21
+        },
+        {
+          "utc": 1793487600,
+          "equity": 9985.21
+        },
+        {
+          "utc": 1793491200,
+          "equity": 9985.21
         }
       ]
     }
   },
-  "last_candle": 1793484000,
-  "updated_utc": "2026-10-31T23:55:32.970215+00:00",
+  "last_candle": 1793491200,
+  "updated_utc": "2026-11-01T01:36:42.760925+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
