@@ -5,8 +5,8 @@
       "cash": 9810.695533115924,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-02",
-      "day_start_equity": 9815.838346241058,
+      "day": "2026-11-03",
+      "day_start_equity": 9810.695533115924,
       "trades": [
         {
           "utc": 1790665200,
@@ -3653,6 +3653,14 @@
         {
           "utc": 1793656800,
           "equity": 9810.7
+        },
+        {
+          "utc": 1793660400,
+          "equity": 9810.7
+        },
+        {
+          "utc": 1793664000,
+          "equity": 9810.7
         }
       ]
     },
@@ -3660,8 +3668,8 @@
       "cash": 8938.144933833926,
       "btc": 0.012811218407874863,
       "entry": 77442.60195,
-      "day": "2026-11-02",
-      "day_start_equity": 9931.272148704362,
+      "day": "2026-11-03",
+      "day_start_equity": 9924.78554605432,
       "trades": [
         {
           "utc": 1790560800,
@@ -7273,6 +7281,14 @@
         {
           "utc": 1793656800,
           "equity": 9921.83
+        },
+        {
+          "utc": 1793660400,
+          "equity": 9920.46
+        },
+        {
+          "utc": 1793664000,
+          "equity": 9924.79
         }
       ]
     },
@@ -7280,8 +7296,8 @@
       "cash": 9989.5439427829,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-02",
-      "day_start_equity": 9987.445524252253,
+      "day": "2026-11-03",
+      "day_start_equity": 9989.5439427829,
       "trades": [
         {
           "utc": 1790823600,
@@ -10768,11 +10784,19 @@
         {
           "utc": 1793656800,
           "equity": 9989.54
+        },
+        {
+          "utc": 1793660400,
+          "equity": 9989.54
+        },
+        {
+          "utc": 1793664000,
+          "equity": 9989.54
         }
       ]
     }
   },
-  "last_candle": 1793656800,
-  "updated_utc": "2026-11-02T23:02:40.413068+00:00",
+  "last_candle": 1793664000,
+  "updated_utc": "2026-11-03T01:32:06.218274+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
