@@ -3738,6 +3738,10 @@
         {
           "utc": 1793728800,
           "equity": 9807.47
+        },
+        {
+          "utc": 1793732400,
+          "equity": 9807.79
         }
       ]
     },
@@ -7443,6 +7447,10 @@
         {
           "utc": 1793728800,
           "equity": 9922.39
+        },
+        {
+          "utc": 1793732400,
+          "equity": 9922.39
         }
       ]
     },
@@ -11018,11 +11026,15 @@
         {
           "utc": 1793728800,
           "equity": 9989.54
+        },
+        {
+          "utc": 1793732400,
+          "equity": 9989.54
         }
       ]
     }
   },
-  "last_candle": 1793728800,
-  "updated_utc": "2026-11-03T19:21:30.113417+00:00",
+  "last_candle": 1793732400,
+  "updated_utc": "2026-11-03T20:16:51.835197+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
