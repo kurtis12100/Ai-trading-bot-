@@ -5,8 +5,8 @@
       "cash": 8829.625979804332,
       "btc": 0.012617840749344026,
       "entry": 77674.818,
-      "day": "2026-11-03",
-      "day_start_equity": 9810.695533115924,
+      "day": "2026-11-04",
+      "day_start_equity": 9802.795874358613,
       "trades": [
         {
           "utc": 1790665200,
@@ -3754,6 +3754,14 @@
         {
           "utc": 1793743200,
           "equity": 9811.12
+        },
+        {
+          "utc": 1793746800,
+          "equity": 9805.39
+        },
+        {
+          "utc": 1793750400,
+          "equity": 9802.8
         }
       ]
     },
@@ -3761,8 +3769,8 @@
       "cash": 9922.386333082111,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-03",
-      "day_start_equity": 9924.78554605432,
+      "day": "2026-11-04",
+      "day_start_equity": 9922.386333082111,
       "trades": [
         {
           "utc": 1790560800,
@@ -7475,6 +7483,14 @@
         {
           "utc": 1793743200,
           "equity": 9922.39
+        },
+        {
+          "utc": 1793746800,
+          "equity": 9922.39
+        },
+        {
+          "utc": 1793750400,
+          "equity": 9922.39
         }
       ]
     },
@@ -7482,7 +7498,7 @@
       "cash": 9989.5439427829,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-03",
+      "day": "2026-11-04",
       "day_start_equity": 9989.5439427829,
       "trades": [
         {
@@ -11066,11 +11082,19 @@
         {
           "utc": 1793743200,
           "equity": 9989.54
+        },
+        {
+          "utc": 1793746800,
+          "equity": 9989.54
+        },
+        {
+          "utc": 1793750400,
+          "equity": 9989.54
         }
       ]
     }
   },
-  "last_candle": 1793743200,
-  "updated_utc": "2026-11-03T23:09:16.708091+00:00",
+  "last_candle": 1793750400,
+  "updated_utc": "2026-11-04T01:32:07.729270+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
