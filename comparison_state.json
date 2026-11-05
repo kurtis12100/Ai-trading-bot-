@@ -3902,13 +3902,17 @@
         {
           "utc": 1793876400,
           "equity": 9842.78
+        },
+        {
+          "utc": 1793880000,
+          "equity": 9833.83
         }
       ]
     },
     "bollinger": {
-      "cash": 9935.524257796216,
-      "btc": 0,
-      "entry": null,
+      "cash": 8941.971832016594,
+      "btc": 0.012465293417597011,
+      "entry": 79625.79299999999,
       "day": "2026-11-05",
       "day_start_equity": 9935.524257796216,
       "trades": [
@@ -4091,6 +4095,11 @@
           "utc": 1793764800,
           "side": "SELL",
           "price": 77240.5604
+        },
+        {
+          "utc": 1793880000,
+          "side": "BUY",
+          "price": 79625.79299999999
         }
       ],
       "equity_history": [
@@ -7781,13 +7790,17 @@
         {
           "utc": 1793876400,
           "equity": 9935.52
+        },
+        {
+          "utc": 1793880000,
+          "equity": 9934.03
         }
       ]
     },
     "rsi_trend": {
-      "cash": 9989.5439427829,
-      "btc": 0,
-      "entry": null,
+      "cash": 8990.589548504611,
+      "btc": 0.012533067518511395,
+      "entry": 79625.79299999999,
       "day": "2026-11-05",
       "day_start_equity": 9989.5439427829,
       "trades": [
@@ -7830,6 +7843,11 @@
           "utc": 1793581200,
           "side": "SELL",
           "price": 78259.75055
+        },
+        {
+          "utc": 1793880000,
+          "side": "BUY",
+          "price": 79625.79299999999
         }
       ],
       "equity_history": [
@@ -11520,11 +11538,15 @@
         {
           "utc": 1793876400,
           "equity": 9989.54
+        },
+        {
+          "utc": 1793880000,
+          "equity": 9988.05
         }
       ]
     }
   },
-  "last_candle": 1793876400,
-  "updated_utc": "2026-11-05T12:20:51.264400+00:00",
+  "last_candle": 1793880000,
+  "updated_utc": "2026-11-05T13:41:46.747135+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
