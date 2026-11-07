@@ -30,8 +30,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9994.11,
-        "profit_usd": -5.89,
+        "equity_usd": 9993.87,
+        "profit_usd": -6.13,
         "trades": 10
       },
       "validation": {
@@ -47,8 +47,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9988.21,
-        "profit_usd": -11.79,
+        "equity_usd": 9987.74,
+        "profit_usd": -12.26,
         "trades": 10
       },
       "validation": {
@@ -64,8 +64,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9976.43,
-        "profit_usd": -23.57,
+        "equity_usd": 9975.49,
+        "profit_usd": -24.51,
         "trades": 10
       },
       "validation": {
@@ -81,8 +81,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9952.87,
-        "profit_usd": -47.13,
+        "equity_usd": 9951.0,
+        "profit_usd": -49.0,
         "trades": 10
       },
       "validation": {
@@ -98,8 +98,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9991.87,
-        "profit_usd": -8.13,
+        "equity_usd": 9991.64,
+        "profit_usd": -8.36,
         "trades": 8
       },
       "validation": {
@@ -115,8 +115,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9983.75,
-        "profit_usd": -16.25,
+        "equity_usd": 9983.28,
+        "profit_usd": -16.72,
         "trades": 8
       },
       "validation": {
@@ -132,8 +132,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9967.52,
-        "profit_usd": -32.48,
+        "equity_usd": 9966.59,
+        "profit_usd": -33.41,
         "trades": 8
       },
       "validation": {
@@ -149,8 +149,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9935.1,
-        "profit_usd": -64.9,
+        "equity_usd": 9933.25,
+        "profit_usd": -66.75,
         "trades": 8
       },
       "validation": {
@@ -166,8 +166,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.78,
-        "profit_usd": -9.22,
+        "equity_usd": 9990.79,
+        "profit_usd": -9.21,
         "trades": 7
       },
       "validation": {
@@ -183,8 +183,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9981.57,
-        "profit_usd": -18.43,
+        "equity_usd": 9981.59,
+        "profit_usd": -18.41,
         "trades": 7
       },
       "validation": {
@@ -200,8 +200,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9963.15,
-        "profit_usd": -36.85,
+        "equity_usd": 9963.2,
+        "profit_usd": -36.8,
         "trades": 7
       },
       "validation": {
@@ -217,8 +217,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9926.4,
-        "profit_usd": -73.6,
+        "equity_usd": 9926.5,
+        "profit_usd": -73.5,
         "trades": 7
       },
       "validation": {
@@ -234,8 +234,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.98,
-        "profit_usd": -10.02,
+        "equity_usd": 9990.12,
+        "profit_usd": -9.88,
         "trades": 7
       },
       "validation": {
@@ -251,8 +251,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.97,
-        "profit_usd": -20.03,
+        "equity_usd": 9980.25,
+        "profit_usd": -19.75,
         "trades": 7
       },
       "validation": {
@@ -268,8 +268,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9959.97,
-        "profit_usd": -40.03,
+        "equity_usd": 9960.52,
+        "profit_usd": -39.48,
         "trades": 7
       },
       "validation": {
@@ -285,8 +285,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9920.04,
-        "profit_usd": -79.96,
+        "equity_usd": 9921.14,
+        "profit_usd": -78.86,
         "trades": 7
       },
       "validation": {
@@ -370,8 +370,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9992.28,
-        "profit_usd": -7.72,
+        "equity_usd": 9992.05,
+        "profit_usd": -7.95,
         "trades": 7
       },
       "validation": {
@@ -387,8 +387,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9984.56,
-        "profit_usd": -15.44,
+        "equity_usd": 9984.1,
+        "profit_usd": -15.9,
         "trades": 7
       },
       "validation": {
@@ -404,8 +404,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9969.14,
-        "profit_usd": -30.86,
+        "equity_usd": 9968.21,
+        "profit_usd": -31.79,
         "trades": 7
       },
       "validation": {
@@ -421,8 +421,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9938.34,
-        "profit_usd": -61.66,
+        "equity_usd": 9936.49,
+        "profit_usd": -63.51,
         "trades": 7
       },
       "validation": {
@@ -438,8 +438,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.03,
-        "profit_usd": -9.97,
+        "equity_usd": 9989.8,
+        "profit_usd": -10.2,
         "trades": 7
       },
       "validation": {
@@ -455,8 +455,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9980.08,
-        "profit_usd": -19.92,
+        "equity_usd": 9979.61,
+        "profit_usd": -20.39,
         "trades": 7
       },
       "validation": {
@@ -472,8 +472,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9960.18,
-        "profit_usd": -39.82,
+        "equity_usd": 9959.25,
+        "profit_usd": -40.75,
         "trades": 7
       },
       "validation": {
@@ -489,8 +489,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9920.46,
-        "profit_usd": -79.54,
+        "equity_usd": 9918.61,
+        "profit_usd": -81.39,
         "trades": 7
       },
       "validation": {
@@ -506,8 +506,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.11,
-        "profit_usd": -10.89,
+        "equity_usd": 9989.12,
+        "profit_usd": -10.88,
         "trades": 7
       },
       "validation": {
@@ -523,8 +523,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9978.22,
-        "profit_usd": -21.78,
+        "equity_usd": 9978.25,
+        "profit_usd": -21.75,
         "trades": 7
       },
       "validation": {
@@ -540,8 +540,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9956.47,
-        "profit_usd": -43.53,
+        "equity_usd": 9956.52,
+        "profit_usd": -43.48,
         "trades": 7
       },
       "validation": {
@@ -557,8 +557,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9913.07,
-        "profit_usd": -86.93,
+        "equity_usd": 9913.17,
+        "profit_usd": -86.83,
         "trades": 7
       },
       "validation": {
@@ -710,8 +710,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9992.4,
-        "profit_usd": -7.6,
+        "equity_usd": 9992.41,
+        "profit_usd": -7.59,
         "trades": 7
       },
       "validation": {
@@ -727,8 +727,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9984.81,
-        "profit_usd": -15.19,
+        "equity_usd": 9984.83,
+        "profit_usd": -15.17,
         "trades": 7
       },
       "validation": {
@@ -744,8 +744,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9969.63,
-        "profit_usd": -30.37,
+        "equity_usd": 9969.68,
+        "profit_usd": -30.32,
         "trades": 7
       },
       "validation": {
@@ -761,8 +761,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9939.32,
-        "profit_usd": -60.68,
+        "equity_usd": 9939.41,
+        "profit_usd": -60.59,
         "trades": 7
       },
       "validation": {
@@ -778,8 +778,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9988.77,
-        "profit_usd": -11.23,
+        "equity_usd": 9988.78,
+        "profit_usd": -11.22,
         "trades": 7
       },
       "validation": {
@@ -795,8 +795,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9977.54,
-        "profit_usd": -22.46,
+        "equity_usd": 9977.57,
+        "profit_usd": -22.43,
         "trades": 7
       },
       "validation": {
@@ -812,8 +812,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9955.11,
-        "profit_usd": -44.89,
+        "equity_usd": 9955.16,
+        "profit_usd": -44.84,
         "trades": 7
       },
       "validation": {
@@ -829,8 +829,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9910.35,
-        "profit_usd": -89.65,
+        "equity_usd": 9910.45,
+        "profit_usd": -89.55,
         "trades": 7
       },
       "validation": {
@@ -846,8 +846,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9987.81,
-        "profit_usd": -12.19,
+        "equity_usd": 9987.95,
+        "profit_usd": -12.05,
         "trades": 7
       },
       "validation": {
@@ -863,8 +863,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9975.63,
-        "profit_usd": -24.37,
+        "equity_usd": 9975.9,
+        "profit_usd": -24.1,
         "trades": 7
       },
       "validation": {
@@ -880,8 +880,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9951.3,
-        "profit_usd": -48.7,
+        "equity_usd": 9951.85,
+        "profit_usd": -48.15,
         "trades": 7
       },
       "validation": {
@@ -897,8 +897,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9902.75,
-        "profit_usd": -97.25,
+        "equity_usd": 9903.85,
+        "profit_usd": -96.15,
         "trades": 7
       },
       "validation": {
@@ -1050,8 +1050,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.8,
-        "profit_usd": -10.2,
+        "equity_usd": 9989.94,
+        "profit_usd": -10.06,
         "trades": 7
       },
       "validation": {
@@ -1067,8 +1067,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.61,
-        "profit_usd": -20.39,
+        "equity_usd": 9979.89,
+        "profit_usd": -20.11,
         "trades": 7
       },
       "validation": {
@@ -1084,8 +1084,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9959.26,
-        "profit_usd": -40.74,
+        "equity_usd": 9959.81,
+        "profit_usd": -40.19,
         "trades": 7
       },
       "validation": {
@@ -1101,8 +1101,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9918.63,
-        "profit_usd": -81.37,
+        "equity_usd": 9919.73,
+        "profit_usd": -80.27,
         "trades": 7
       },
       "validation": {
@@ -1118,8 +1118,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9988.53,
-        "profit_usd": -11.47,
+        "equity_usd": 9988.67,
+        "profit_usd": -11.33,
         "trades": 7
       },
       "validation": {
@@ -1135,8 +1135,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9977.07,
-        "profit_usd": -22.93,
+        "equity_usd": 9977.35,
+        "profit_usd": -22.65,
         "trades": 7
       },
       "validation": {
@@ -1152,8 +1152,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9954.18,
-        "profit_usd": -45.82,
+        "equity_usd": 9954.73,
+        "profit_usd": -45.27,
         "trades": 7
       },
       "validation": {
@@ -1169,8 +1169,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9908.5,
-        "profit_usd": -91.5,
+        "equity_usd": 9909.6,
+        "profit_usd": -90.4,
         "trades": 7
       },
       "validation": {
@@ -3430,8 +3430,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9972.16,
-        "profit_usd": -27.84,
+        "equity_usd": 9971.93,
+        "profit_usd": -28.07,
         "trades": 72
       },
       "validation": {
@@ -3447,8 +3447,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9944.39,
-        "profit_usd": -55.61,
+        "equity_usd": 9943.93,
+        "profit_usd": -56.07,
         "trades": 72
       },
       "validation": {
@@ -3464,8 +3464,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9889.08,
-        "profit_usd": -110.92,
+        "equity_usd": 9888.16,
+        "profit_usd": -111.84,
         "trades": 72
       },
       "validation": {
@@ -3481,8 +3481,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9779.3,
-        "profit_usd": -220.7,
+        "equity_usd": 9777.48,
+        "profit_usd": -222.52,
         "trades": 72
       },
       "validation": {
@@ -3498,9 +3498,9 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9982.81,
-        "profit_usd": -17.19,
-        "trades": 50
+        "equity_usd": 9983.39,
+        "profit_usd": -16.61,
+        "trades": 48
       },
       "validation": {
         "equity_usd": 10000.33,
@@ -3515,9 +3515,9 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9965.65,
-        "profit_usd": -34.35,
-        "trades": 50
+        "equity_usd": 9966.8,
+        "profit_usd": -33.2,
+        "trades": 48
       },
       "validation": {
         "equity_usd": 10000.65,
@@ -3532,9 +3532,9 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9931.4,
-        "profit_usd": -68.6,
-        "trades": 50
+        "equity_usd": 9933.7,
+        "profit_usd": -66.3,
+        "trades": 48
       },
       "validation": {
         "equity_usd": 10001.29,
@@ -3549,9 +3549,9 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9863.2,
-        "profit_usd": -136.8,
-        "trades": 50
+        "equity_usd": 9867.77,
+        "profit_usd": -132.23,
+        "trades": 48
       },
       "validation": {
         "equity_usd": 10002.52,
@@ -3566,8 +3566,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9984.74,
-        "profit_usd": -15.26,
+        "equity_usd": 9982.97,
+        "profit_usd": -17.03,
         "trades": 36
       },
       "validation": {
@@ -3583,8 +3583,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9969.49,
-        "profit_usd": -30.51,
+        "equity_usd": 9965.97,
+        "profit_usd": -34.03,
         "trades": 36
       },
       "validation": {
@@ -3600,8 +3600,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9939.06,
-        "profit_usd": -60.94,
+        "equity_usd": 9932.03,
+        "profit_usd": -67.97,
         "trades": 36
       },
       "validation": {
@@ -3617,8 +3617,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9878.4,
-        "profit_usd": -121.6,
+        "equity_usd": 9864.45,
+        "profit_usd": -135.55,
         "trades": 36
       },
       "validation": {
@@ -3634,8 +3634,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9986.3,
-        "profit_usd": -13.7,
+        "equity_usd": 9984.55,
+        "profit_usd": -15.45,
         "trades": 22
       },
       "validation": {
@@ -3651,8 +3651,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9972.62,
-        "profit_usd": -27.38,
+        "equity_usd": 9969.12,
+        "profit_usd": -30.88,
         "trades": 22
       },
       "validation": {
@@ -3668,8 +3668,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9945.3,
-        "profit_usd": -54.7,
+        "equity_usd": 9938.32,
+        "profit_usd": -61.68,
         "trades": 22
       },
       "validation": {
@@ -3685,8 +3685,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9890.84,
-        "profit_usd": -109.16,
+        "equity_usd": 9876.95,
+        "profit_usd": -123.05,
         "trades": 22
       },
       "validation": {
@@ -3770,8 +3770,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9970.61,
-        "profit_usd": -29.39,
+        "equity_usd": 9970.38,
+        "profit_usd": -29.62,
         "trades": 64
       },
       "validation": {
@@ -3787,8 +3787,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9941.3,
-        "profit_usd": -58.7,
+        "equity_usd": 9940.83,
+        "profit_usd": -59.17,
         "trades": 64
       },
       "validation": {
@@ -3804,8 +3804,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9882.92,
-        "profit_usd": -117.08,
+        "equity_usd": 9882.0,
+        "profit_usd": -118.0,
         "trades": 64
       },
       "validation": {
@@ -3821,8 +3821,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9767.13,
-        "profit_usd": -232.87,
+        "equity_usd": 9765.31,
+        "profit_usd": -234.69,
         "trades": 64
       },
       "validation": {
@@ -3838,8 +3838,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9980.27,
-        "profit_usd": -19.73,
+        "equity_usd": 9980.04,
+        "profit_usd": -19.96,
         "trades": 42
       },
       "validation": {
@@ -3855,8 +3855,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9960.58,
-        "profit_usd": -39.42,
+        "equity_usd": 9960.12,
+        "profit_usd": -39.88,
         "trades": 42
       },
       "validation": {
@@ -3872,8 +3872,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9921.3,
-        "profit_usd": -78.7,
+        "equity_usd": 9920.37,
+        "profit_usd": -79.63,
         "trades": 42
       },
       "validation": {
@@ -3889,8 +3889,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9843.16,
-        "profit_usd": -156.84,
+        "equity_usd": 9841.32,
+        "profit_usd": -158.68,
         "trades": 42
       },
       "validation": {
@@ -3906,8 +3906,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9987.36,
-        "profit_usd": -12.64,
+        "equity_usd": 9987.13,
+        "profit_usd": -12.87,
         "trades": 32
       },
       "validation": {
@@ -3923,8 +3923,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9974.73,
-        "profit_usd": -25.27,
+        "equity_usd": 9974.26,
+        "profit_usd": -25.74,
         "trades": 32
       },
       "validation": {
@@ -3940,8 +3940,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9949.51,
-        "profit_usd": -50.49,
+        "equity_usd": 9948.58,
+        "profit_usd": -51.42,
         "trades": 32
       },
       "validation": {
@@ -3957,8 +3957,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9899.23,
-        "profit_usd": -100.77,
+        "equity_usd": 9897.39,
+        "profit_usd": -102.61,
         "trades": 32
       },
       "validation": {
@@ -3974,8 +3974,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9982.74,
-        "profit_usd": -17.26,
+        "equity_usd": 9982.5,
+        "profit_usd": -17.5,
         "trades": 22
       },
       "validation": {
@@ -3991,8 +3991,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9965.5,
-        "profit_usd": -34.5,
+        "equity_usd": 9965.03,
+        "profit_usd": -34.97,
         "trades": 22
       },
       "validation": {
@@ -4008,8 +4008,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9931.1,
-        "profit_usd": -68.9,
+        "equity_usd": 9930.17,
+        "profit_usd": -69.83,
         "trades": 22
       },
       "validation": {
@@ -4025,8 +4025,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9862.59,
-        "profit_usd": -137.41,
+        "equity_usd": 9860.75,
+        "profit_usd": -139.25,
         "trades": 22
       },
       "validation": {
@@ -4110,8 +4110,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9983.55,
-        "profit_usd": -16.45,
+        "equity_usd": 9983.31,
+        "profit_usd": -16.69,
         "trades": 52
       },
       "validation": {
@@ -4127,8 +4127,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9967.12,
-        "profit_usd": -32.88,
+        "equity_usd": 9966.65,
+        "profit_usd": -33.35,
         "trades": 52
       },
       "validation": {
@@ -4144,8 +4144,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9934.33,
-        "profit_usd": -65.67,
+        "equity_usd": 9933.4,
+        "profit_usd": -66.6,
         "trades": 52
       },
       "validation": {
@@ -4161,8 +4161,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9869.03,
-        "profit_usd": -130.97,
+        "equity_usd": 9867.2,
+        "profit_usd": -132.8,
         "trades": 52
       },
       "validation": {
@@ -4178,8 +4178,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9986.77,
-        "profit_usd": -13.23,
+        "equity_usd": 9986.54,
+        "profit_usd": -13.46,
         "trades": 32
       },
       "validation": {
@@ -4195,8 +4195,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9973.56,
-        "profit_usd": -26.44,
+        "equity_usd": 9973.09,
+        "profit_usd": -26.91,
         "trades": 32
       },
       "validation": {
@@ -4212,8 +4212,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9947.17,
-        "profit_usd": -52.83,
+        "equity_usd": 9946.25,
+        "profit_usd": -53.75,
         "trades": 32
       },
       "validation": {
@@ -4229,8 +4229,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9894.59,
-        "profit_usd": -105.41,
+        "equity_usd": 9892.75,
+        "profit_usd": -107.25,
         "trades": 32
       },
       "validation": {
@@ -4246,8 +4246,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.5,
-        "profit_usd": -10.5,
+        "equity_usd": 9989.27,
+        "profit_usd": -10.73,
         "trades": 24
       },
       "validation": {
@@ -4263,8 +4263,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.01,
-        "profit_usd": -20.99,
+        "equity_usd": 9978.55,
+        "profit_usd": -21.45,
         "trades": 24
       },
       "validation": {
@@ -4280,8 +4280,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9958.06,
-        "profit_usd": -41.94,
+        "equity_usd": 9957.13,
+        "profit_usd": -42.87,
         "trades": 24
       },
       "validation": {
@@ -4297,8 +4297,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9916.26,
-        "profit_usd": -83.74,
+        "equity_usd": 9914.42,
+        "profit_usd": -85.58,
         "trades": 24
       },
       "validation": {
@@ -4314,8 +4314,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9986.3,
-        "profit_usd": -13.7,
+        "equity_usd": 9986.07,
+        "profit_usd": -13.93,
         "trades": 16
       },
       "validation": {
@@ -4331,8 +4331,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9972.62,
-        "profit_usd": -27.38,
+        "equity_usd": 9972.15,
+        "profit_usd": -27.85,
         "trades": 16
       },
       "validation": {
@@ -4348,8 +4348,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9945.29,
-        "profit_usd": -54.71,
+        "equity_usd": 9944.37,
+        "profit_usd": -55.63,
         "trades": 16
       },
       "validation": {
@@ -4365,8 +4365,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9890.82,
-        "profit_usd": -109.18,
+        "equity_usd": 9888.99,
+        "profit_usd": -111.01,
         "trades": 16
       },
       "validation": {
@@ -4382,8 +4382,8 @@
       "threshold": 0.008,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9988.37,
-        "profit_usd": -11.63,
+        "equity_usd": 9986.37,
+        "profit_usd": -13.63,
         "trades": 9
       },
       "validation": {
@@ -4399,8 +4399,8 @@
       "threshold": 0.008,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9976.75,
-        "profit_usd": -23.25,
+        "equity_usd": 9972.76,
+        "profit_usd": -27.24,
         "trades": 9
       },
       "validation": {
@@ -4416,8 +4416,8 @@
       "threshold": 0.008,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9953.54,
-        "profit_usd": -46.46,
+        "equity_usd": 9945.58,
+        "profit_usd": -54.42,
         "trades": 9
       },
       "validation": {
@@ -4433,8 +4433,8 @@
       "threshold": 0.008,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9907.25,
-        "profit_usd": -92.75,
+        "equity_usd": 9891.4,
+        "profit_usd": -108.6,
         "trades": 9
       },
       "validation": {
@@ -4450,8 +4450,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9984.54,
-        "profit_usd": -15.46,
+        "equity_usd": 9984.3,
+        "profit_usd": -15.7,
         "trades": 46
       },
       "validation": {
@@ -4467,8 +4467,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9969.09,
-        "profit_usd": -30.91,
+        "equity_usd": 9968.63,
+        "profit_usd": -31.37,
         "trades": 46
       },
       "validation": {
@@ -4484,8 +4484,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9938.27,
-        "profit_usd": -61.73,
+        "equity_usd": 9937.35,
+        "profit_usd": -62.65,
         "trades": 46
       },
       "validation": {
@@ -4501,8 +4501,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9876.88,
-        "profit_usd": -123.12,
+        "equity_usd": 9875.04,
+        "profit_usd": -124.96,
         "trades": 46
       },
       "validation": {
@@ -4518,8 +4518,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9992.16,
-        "profit_usd": -7.84,
+        "equity_usd": 9991.93,
+        "profit_usd": -8.07,
         "trades": 28
       },
       "validation": {
@@ -4535,8 +4535,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9984.33,
-        "profit_usd": -15.67,
+        "equity_usd": 9983.87,
+        "profit_usd": -16.13,
         "trades": 28
       },
       "validation": {
@@ -4552,8 +4552,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9968.68,
-        "profit_usd": -31.32,
+        "equity_usd": 9967.75,
+        "profit_usd": -32.25,
         "trades": 28
       },
       "validation": {
@@ -4569,8 +4569,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9937.43,
-        "profit_usd": -62.57,
+        "equity_usd": 9935.58,
+        "profit_usd": -64.42,
         "trades": 28
       },
       "validation": {
@@ -4586,8 +4586,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.9,
-        "profit_usd": -9.1,
+        "equity_usd": 9990.67,
+        "profit_usd": -9.33,
         "trades": 22
       },
       "validation": {
@@ -4603,8 +4603,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9981.82,
-        "profit_usd": -18.18,
+        "equity_usd": 9981.35,
+        "profit_usd": -18.65,
         "trades": 22
       },
       "validation": {
@@ -4620,8 +4620,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9963.66,
-        "profit_usd": -36.34,
+        "equity_usd": 9962.73,
+        "profit_usd": -37.27,
         "trades": 22
       },
       "validation": {
@@ -4637,8 +4637,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9927.41,
-        "profit_usd": -72.59,
+        "equity_usd": 9925.57,
+        "profit_usd": -74.43,
         "trades": 22
       },
       "validation": {
@@ -4654,8 +4654,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.98,
-        "profit_usd": -9.02,
+        "equity_usd": 9990.75,
+        "profit_usd": -9.25,
         "trades": 16
       },
       "validation": {
@@ -4671,8 +4671,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9981.96,
-        "profit_usd": -18.04,
+        "equity_usd": 9981.5,
+        "profit_usd": -18.5,
         "trades": 16
       },
       "validation": {
@@ -4688,8 +4688,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9963.94,
-        "profit_usd": -36.06,
+        "equity_usd": 9963.01,
+        "profit_usd": -36.99,
         "trades": 16
       },
       "validation": {
@@ -4705,8 +4705,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9927.93,
-        "profit_usd": -72.07,
+        "equity_usd": 9926.09,
+        "profit_usd": -73.91,
         "trades": 16
       },
       "validation": {
@@ -4722,8 +4722,8 @@
       "threshold": 0.008,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9991.11,
-        "profit_usd": -8.89,
+        "equity_usd": 9990.88,
+        "profit_usd": -9.12,
         "trades": 8
       },
       "validation": {
@@ -4739,8 +4739,8 @@
       "threshold": 0.008,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9982.23,
-        "profit_usd": -17.77,
+        "equity_usd": 9981.76,
+        "profit_usd": -18.24,
         "trades": 8
       },
       "validation": {
@@ -4756,8 +4756,8 @@
       "threshold": 0.008,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9964.47,
-        "profit_usd": -35.53,
+        "equity_usd": 9963.55,
+        "profit_usd": -36.45,
         "trades": 8
       },
       "validation": {
@@ -4773,8 +4773,8 @@
       "threshold": 0.008,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9929.03,
-        "profit_usd": -70.97,
+        "equity_usd": 9927.19,
+        "profit_usd": -72.81,
         "trades": 8
       },
       "validation": {
@@ -4790,8 +4790,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9983.92,
-        "profit_usd": -16.08,
+        "equity_usd": 9983.69,
+        "profit_usd": -16.31,
         "trades": 40
       },
       "validation": {
@@ -4807,8 +4807,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9967.87,
-        "profit_usd": -32.13,
+        "equity_usd": 9967.41,
+        "profit_usd": -32.59,
         "trades": 40
       },
       "validation": {
@@ -4824,8 +4824,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9935.83,
-        "profit_usd": -64.17,
+        "equity_usd": 9934.91,
+        "profit_usd": -65.09,
         "trades": 40
       },
       "validation": {
@@ -4841,8 +4841,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9872.03,
-        "profit_usd": -127.97,
+        "equity_usd": 9870.19,
+        "profit_usd": -129.81,
         "trades": 40
       },
       "validation": {
@@ -4858,8 +4858,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9985.09,
-        "profit_usd": -14.91,
+        "equity_usd": 9984.86,
+        "profit_usd": -15.14,
         "trades": 30
       },
       "validation": {
@@ -4875,8 +4875,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9970.21,
-        "profit_usd": -29.79,
+        "equity_usd": 9969.74,
+        "profit_usd": -30.26,
         "trades": 30
       },
       "validation": {
@@ -4892,8 +4892,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9940.49,
-        "profit_usd": -59.51,
+        "equity_usd": 9939.57,
+        "profit_usd": -60.43,
         "trades": 30
       },
       "validation": {
@@ -4909,8 +4909,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9881.3,
-        "profit_usd": -118.7,
+        "equity_usd": 9879.46,
+        "profit_usd": -120.54,
         "trades": 30
       },
       "validation": {
@@ -4926,8 +4926,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9987.13,
-        "profit_usd": -12.87,
+        "equity_usd": 9986.9,
+        "profit_usd": -13.1,
         "trades": 22
       },
       "validation": {
@@ -4943,8 +4943,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9974.27,
-        "profit_usd": -25.73,
+        "equity_usd": 9973.81,
+        "profit_usd": -26.19,
         "trades": 22
       },
       "validation": {
@@ -4960,8 +4960,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9948.6,
-        "profit_usd": -51.4,
+        "equity_usd": 9947.67,
+        "profit_usd": -52.33,
         "trades": 22
       },
       "validation": {
@@ -4977,8 +4977,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9897.41,
-        "profit_usd": -102.59,
+        "equity_usd": 9895.57,
+        "profit_usd": -104.43,
         "trades": 22
       },
       "validation": {
@@ -4994,8 +4994,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9987.13,
-        "profit_usd": -12.87,
+        "equity_usd": 9986.9,
+        "profit_usd": -13.1,
         "trades": 16
       },
       "validation": {
@@ -5011,8 +5011,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9974.28,
-        "profit_usd": -25.72,
+        "equity_usd": 9973.81,
+        "profit_usd": -26.19,
         "trades": 16
       },
       "validation": {
@@ -5028,8 +5028,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9948.6,
-        "profit_usd": -51.4,
+        "equity_usd": 9947.68,
+        "profit_usd": -52.32,
         "trades": 16
       },
       "validation": {
@@ -5045,8 +5045,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9897.38,
-        "profit_usd": -102.62,
+        "equity_usd": 9895.55,
+        "profit_usd": -104.45,
         "trades": 16
       },
       "validation": {
@@ -5062,8 +5062,8 @@
       "threshold": 0.008,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.91,
-        "profit_usd": -10.09,
+        "equity_usd": 9989.68,
+        "profit_usd": -10.32,
         "trades": 8
       },
       "validation": {
@@ -5079,8 +5079,8 @@
       "threshold": 0.008,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.82,
-        "profit_usd": -20.18,
+        "equity_usd": 9979.36,
+        "profit_usd": -20.64,
         "trades": 8
       },
       "validation": {
@@ -5096,8 +5096,8 @@
       "threshold": 0.008,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9959.67,
-        "profit_usd": -40.33,
+        "equity_usd": 9958.74,
+        "profit_usd": -41.26,
         "trades": 8
       },
       "validation": {
@@ -5113,8 +5113,8 @@
       "threshold": 0.008,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9919.45,
-        "profit_usd": -80.55,
+        "equity_usd": 9917.6,
+        "profit_usd": -82.4,
         "trades": 8
       },
       "validation": {
@@ -5130,8 +5130,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9987.31,
-        "profit_usd": -12.69,
+        "equity_usd": 9987.07,
+        "profit_usd": -12.93,
         "trades": 32
       },
       "validation": {
@@ -5147,8 +5147,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9974.62,
-        "profit_usd": -25.38,
+        "equity_usd": 9974.16,
+        "profit_usd": -25.84,
         "trades": 32
       },
       "validation": {
@@ -5164,8 +5164,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9949.3,
-        "profit_usd": -50.7,
+        "equity_usd": 9948.38,
+        "profit_usd": -51.62,
         "trades": 32
       },
       "validation": {
@@ -5181,8 +5181,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9898.82,
-        "profit_usd": -101.18,
+        "equity_usd": 9896.98,
+        "profit_usd": -103.02,
         "trades": 32
       },
       "validation": {
@@ -5198,8 +5198,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.26,
-        "profit_usd": -9.74,
+        "equity_usd": 9990.02,
+        "profit_usd": -9.98,
         "trades": 20
       },
       "validation": {
@@ -5215,8 +5215,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9980.52,
-        "profit_usd": -19.48,
+        "equity_usd": 9980.06,
+        "profit_usd": -19.94,
         "trades": 20
       },
       "validation": {
@@ -5232,8 +5232,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9961.07,
-        "profit_usd": -38.93,
+        "equity_usd": 9960.14,
+        "profit_usd": -39.86,
         "trades": 20
       },
       "validation": {
@@ -5249,8 +5249,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9922.24,
-        "profit_usd": -77.76,
+        "equity_usd": 9920.39,
+        "profit_usd": -79.61,
         "trades": 20
       },
       "validation": {
@@ -5266,8 +5266,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9991.7,
-        "profit_usd": -8.3,
+        "equity_usd": 9991.46,
+        "profit_usd": -8.54,
         "trades": 18
       },
       "validation": {
@@ -5283,8 +5283,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9983.4,
-        "profit_usd": -16.6,
+        "equity_usd": 9982.93,
+        "profit_usd": -17.07,
         "trades": 18
       },
       "validation": {
@@ -5300,8 +5300,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9966.81,
-        "profit_usd": -33.19,
+        "equity_usd": 9965.89,
+        "profit_usd": -34.11,
         "trades": 18
       },
       "validation": {
@@ -5317,8 +5317,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9933.69,
-        "profit_usd": -66.31,
+        "equity_usd": 9931.84,
+        "profit_usd": -68.16,
         "trades": 18
       },
       "validation": {
@@ -5334,8 +5334,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9985.16,
-        "profit_usd": -14.84,
+        "equity_usd": 9984.93,
+        "profit_usd": -15.07,
         "trades": 16
       },
       "validation": {
@@ -5351,8 +5351,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9970.34,
-        "profit_usd": -29.66,
+        "equity_usd": 9969.87,
+        "profit_usd": -30.13,
         "trades": 16
       },
       "validation": {
@@ -5368,8 +5368,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9940.75,
-        "profit_usd": -59.25,
+        "equity_usd": 9939.82,
+        "profit_usd": -60.18,
         "trades": 16
       },
       "validation": {
@@ -5385,8 +5385,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9881.78,
-        "profit_usd": -118.22,
+        "equity_usd": 9879.94,
+        "profit_usd": -120.06,
         "trades": 16
       },
       "validation": {
@@ -5402,8 +5402,8 @@
       "threshold": 0.008,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.02,
-        "profit_usd": -9.98,
+        "equity_usd": 9989.78,
+        "profit_usd": -10.22,
         "trades": 7
       },
       "validation": {
@@ -5419,8 +5419,8 @@
       "threshold": 0.008,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9980.04,
-        "profit_usd": -19.96,
+        "equity_usd": 9979.57,
+        "profit_usd": -20.43,
         "trades": 7
       },
       "validation": {
@@ -5436,8 +5436,8 @@
       "threshold": 0.008,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9960.1,
-        "profit_usd": -39.9,
+        "equity_usd": 9959.17,
+        "profit_usd": -40.83,
         "trades": 7
       },
       "validation": {
@@ -5453,8 +5453,8 @@
       "threshold": 0.008,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9920.31,
-        "profit_usd": -79.69,
+        "equity_usd": 9918.46,
+        "profit_usd": -81.54,
         "trades": 7
       },
       "validation": {
@@ -5470,9 +5470,9 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9986.64,
-        "profit_usd": -13.36,
-        "trades": 32
+        "equity_usd": 9986.77,
+        "profit_usd": -13.23,
+        "trades": 30
       },
       "validation": {
         "equity_usd": 9999.12,
@@ -5487,9 +5487,9 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9973.3,
-        "profit_usd": -26.7,
-        "trades": 32
+        "equity_usd": 9973.56,
+        "profit_usd": -26.44,
+        "trades": 30
       },
       "validation": {
         "equity_usd": 9998.23,
@@ -5504,9 +5504,9 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9946.67,
-        "profit_usd": -53.33,
-        "trades": 32
+        "equity_usd": 9947.18,
+        "profit_usd": -52.82,
+        "trades": 30
       },
       "validation": {
         "equity_usd": 9996.46,
@@ -5521,9 +5521,9 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9893.59,
-        "profit_usd": -106.41,
-        "trades": 32
+        "equity_usd": 9894.6,
+        "profit_usd": -105.4,
+        "trades": 30
       },
       "validation": {
         "equity_usd": 9992.9,
@@ -5538,8 +5538,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9988.62,
-        "profit_usd": -11.38,
+        "equity_usd": 9988.39,
+        "profit_usd": -11.61,
         "trades": 22
       },
       "validation": {
@@ -5555,8 +5555,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9977.25,
-        "profit_usd": -22.75,
+        "equity_usd": 9976.79,
+        "profit_usd": -23.21,
         "trades": 22
       },
       "validation": {
@@ -5572,8 +5572,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9954.54,
-        "profit_usd": -45.46,
+        "equity_usd": 9953.61,
+        "profit_usd": -46.39,
         "trades": 22
       },
       "validation": {
@@ -5589,8 +5589,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9909.24,
-        "profit_usd": -90.76,
+        "equity_usd": 9907.39,
+        "profit_usd": -92.61,
         "trades": 22
       },
       "validation": {
@@ -5606,8 +5606,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9984.57,
-        "profit_usd": -15.43,
+        "equity_usd": 9984.33,
+        "profit_usd": -15.67,
         "trades": 22
       },
       "validation": {
@@ -5623,8 +5623,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9969.15,
-        "profit_usd": -30.85,
+        "equity_usd": 9968.69,
+        "profit_usd": -31.31,
         "trades": 22
       },
       "validation": {
@@ -5640,8 +5640,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9938.38,
-        "profit_usd": -61.62,
+        "equity_usd": 9937.46,
+        "profit_usd": -62.54,
         "trades": 22
       },
       "validation": {
@@ -5657,8 +5657,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9877.08,
-        "profit_usd": -122.92,
+        "equity_usd": 9875.24,
+        "profit_usd": -124.76,
         "trades": 22
       },
       "validation": {
@@ -5674,8 +5674,8 @@
       "threshold": 0.004,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.66,
-        "profit_usd": -10.34,
+        "equity_usd": 9989.68,
+        "profit_usd": -10.32,
         "trades": 14
       },
       "validation": {
@@ -5691,8 +5691,8 @@
       "threshold": 0.004,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.33,
-        "profit_usd": -20.67,
+        "equity_usd": 9979.36,
+        "profit_usd": -20.64,
         "trades": 14
       },
       "validation": {
@@ -5708,8 +5708,8 @@
       "threshold": 0.004,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9958.7,
-        "profit_usd": -41.3,
+        "equity_usd": 9958.74,
+        "profit_usd": -41.26,
         "trades": 14
       },
       "validation": {
@@ -5725,8 +5725,8 @@
       "threshold": 0.004,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9917.51,
-        "profit_usd": -82.49,
+        "equity_usd": 9917.6,
+        "profit_usd": -82.4,
         "trades": 14
       },
       "validation": {
@@ -5810,8 +5810,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.38,
-        "profit_usd": -10.62,
+        "equity_usd": 9989.52,
+        "profit_usd": -10.48,
         "trades": 22
       },
       "validation": {
@@ -5827,8 +5827,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9978.77,
-        "profit_usd": -21.23,
+        "equity_usd": 9979.04,
+        "profit_usd": -20.96,
         "trades": 22
       },
       "validation": {
@@ -5844,8 +5844,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9957.57,
-        "profit_usd": -42.43,
+        "equity_usd": 9958.13,
+        "profit_usd": -41.87,
         "trades": 22
       },
       "validation": {
@@ -5861,8 +5861,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9915.3,
-        "profit_usd": -84.7,
+        "equity_usd": 9916.4,
+        "profit_usd": -83.6,
         "trades": 22
       },
       "validation": {
@@ -5878,8 +5878,8 @@
       "threshold": 0.001,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9990.28,
-        "profit_usd": -9.72,
+        "equity_usd": 9990.42,
+        "profit_usd": -9.58,
         "trades": 16
       },
       "validation": {
@@ -5895,8 +5895,8 @@
       "threshold": 0.001,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9980.56,
-        "profit_usd": -19.44,
+        "equity_usd": 9980.84,
+        "profit_usd": -19.16,
         "trades": 16
       },
       "validation": {
@@ -5912,8 +5912,8 @@
       "threshold": 0.001,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9961.16,
-        "profit_usd": -38.84,
+        "equity_usd": 9961.71,
+        "profit_usd": -38.29,
         "trades": 16
       },
       "validation": {
@@ -5929,8 +5929,8 @@
       "threshold": 0.001,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9922.44,
-        "profit_usd": -77.56,
+        "equity_usd": 9923.54,
+        "profit_usd": -76.46,
         "trades": 16
       },
       "validation": {
@@ -5946,8 +5946,8 @@
       "threshold": 0.002,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9989.63,
-        "profit_usd": -10.37,
+        "equity_usd": 9989.77,
+        "profit_usd": -10.23,
         "trades": 16
       },
       "validation": {
@@ -5963,8 +5963,8 @@
       "threshold": 0.002,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9979.27,
-        "profit_usd": -20.73,
+        "equity_usd": 9979.54,
+        "profit_usd": -20.46,
         "trades": 16
       },
       "validation": {
@@ -5980,8 +5980,8 @@
       "threshold": 0.002,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9958.57,
-        "profit_usd": -41.43,
+        "equity_usd": 9959.12,
+        "profit_usd": -40.88,
         "trades": 16
       },
       "validation": {
@@ -5997,8 +5997,8 @@
       "threshold": 0.002,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9917.27,
-        "profit_usd": -82.73,
+        "equity_usd": 9918.38,
+        "profit_usd": -81.62,
         "trades": 16
       },
       "validation": {
@@ -6490,9 +6490,9 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9983.7,
-        "profit_usd": -16.3,
-        "trades": 24
+        "equity_usd": 9984.34,
+        "profit_usd": -15.66,
+        "trades": 22
       },
       "validation": {
         "equity_usd": 9997.4,
@@ -6507,9 +6507,9 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9967.43,
-        "profit_usd": -32.57,
-        "trades": 24
+        "equity_usd": 9968.7,
+        "profit_usd": -31.3,
+        "trades": 22
       },
       "validation": {
         "equity_usd": 9994.8,
@@ -6524,9 +6524,9 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9934.95,
-        "profit_usd": -65.05,
-        "trades": 24
+        "equity_usd": 9937.49,
+        "profit_usd": -62.51,
+        "trades": 22
       },
       "validation": {
         "equity_usd": 9989.61,
@@ -6541,9 +6541,9 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9870.24,
-        "profit_usd": -129.76,
-        "trades": 24
+        "equity_usd": 9875.29,
+        "profit_usd": -124.71,
+        "trades": 22
       },
       "validation": {
         "equity_usd": 9979.22,
@@ -15670,9 +15670,9 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9993.06,
-        "profit_usd": -6.94,
-        "trades": 31
+        "equity_usd": 9993.7,
+        "profit_usd": -6.3,
+        "trades": 29
       },
       "validation": {
         "equity_usd": 9999.38,
@@ -15687,9 +15687,9 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9986.13,
-        "profit_usd": -13.87,
-        "trades": 31
+        "equity_usd": 9987.41,
+        "profit_usd": -12.59,
+        "trades": 29
       },
       "validation": {
         "equity_usd": 9998.75,
@@ -15704,9 +15704,9 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9972.27,
-        "profit_usd": -27.73,
-        "trades": 31
+        "equity_usd": 9974.82,
+        "profit_usd": -25.18,
+        "trades": 29
       },
       "validation": {
         "equity_usd": 9997.5,
@@ -15721,9 +15721,9 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9944.59,
-        "profit_usd": -55.41,
-        "trades": 31
+        "equity_usd": 9949.67,
+        "profit_usd": -50.33,
+        "trades": 29
       },
       "validation": {
         "equity_usd": 9994.97,
@@ -16010,9 +16010,9 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9994.85,
-        "profit_usd": -5.15,
-        "trades": 23
+        "equity_usd": 9994.98,
+        "profit_usd": -5.02,
+        "trades": 21
       },
       "validation": {
         "equity_usd": 9998.24,
@@ -16027,9 +16027,9 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9989.7,
-        "profit_usd": -10.3,
-        "trades": 23
+        "equity_usd": 9989.96,
+        "profit_usd": -10.04,
+        "trades": 21
       },
       "validation": {
         "equity_usd": 9996.48,
@@ -16044,9 +16044,9 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9979.4,
-        "profit_usd": -20.6,
-        "trades": 23
+        "equity_usd": 9979.91,
+        "profit_usd": -20.09,
+        "trades": 21
       },
       "validation": {
         "equity_usd": 9992.95,
@@ -16061,9 +16061,9 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9958.79,
-        "profit_usd": -41.21,
-        "trades": 23
+        "equity_usd": 9959.81,
+        "profit_usd": -40.19,
+        "trades": 21
       },
       "validation": {
         "equity_usd": 9985.87,
@@ -16350,8 +16350,8 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9998.77,
-        "profit_usd": -1.23,
+        "equity_usd": 9998.53,
+        "profit_usd": -1.47,
         "trades": 21
       },
       "validation": {
@@ -16367,8 +16367,8 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9997.53,
-        "profit_usd": -2.47,
+        "equity_usd": 9997.06,
+        "profit_usd": -2.94,
         "trades": 21
       },
       "validation": {
@@ -16384,8 +16384,8 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9995.06,
-        "profit_usd": -4.94,
+        "equity_usd": 9994.13,
+        "profit_usd": -5.87,
         "trades": 21
       },
       "validation": {
@@ -16401,8 +16401,8 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9990.11,
-        "profit_usd": -9.89,
+        "equity_usd": 9988.24,
+        "profit_usd": -11.76,
         "trades": 21
       },
       "validation": {
@@ -16690,9 +16690,9 @@
       "threshold": 0.0,
       "allocation": 0.025,
       "training": {
-        "equity_usd": 9999.56,
-        "profit_usd": -0.44,
-        "trades": 25
+        "equity_usd": 9999.69,
+        "profit_usd": -0.31,
+        "trades": 23
       },
       "validation": {
         "equity_usd": 10000.58,
@@ -16707,9 +16707,9 @@
       "threshold": 0.0,
       "allocation": 0.05,
       "training": {
-        "equity_usd": 9999.12,
-        "profit_usd": -0.88,
-        "trades": 25
+        "equity_usd": 9999.37,
+        "profit_usd": -0.63,
+        "trades": 23
       },
       "validation": {
         "equity_usd": 10001.17,
@@ -16724,9 +16724,9 @@
       "threshold": 0.0,
       "allocation": 0.1,
       "training": {
-        "equity_usd": 9998.23,
-        "profit_usd": -1.77,
-        "trades": 25
+        "equity_usd": 9998.74,
+        "profit_usd": -1.26,
+        "trades": 23
       },
       "validation": {
         "equity_usd": 10002.33,
@@ -16741,9 +16741,9 @@
       "threshold": 0.0,
       "allocation": 0.2,
       "training": {
-        "equity_usd": 9996.42,
-        "profit_usd": -3.58,
-        "trades": 25
+        "equity_usd": 9997.44,
+        "profit_usd": -2.56,
+        "trades": 23
       },
       "validation": {
         "equity_usd": 10004.61,
