@@ -5,8 +5,8 @@
       "cash": 9781.517290754684,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-07",
-      "day_start_equity": 9785.911747981942,
+      "day": "2026-11-08",
+      "day_start_equity": 9781.517290754684,
       "trades": [
         {
           "utc": 1790665200,
@@ -4153,6 +4153,14 @@
         {
           "utc": 1794088800,
           "equity": 9781.52
+        },
+        {
+          "utc": 1794092400,
+          "equity": 9781.52
+        },
+        {
+          "utc": 1794096000,
+          "equity": 9781.52
         }
       ]
     },
@@ -4160,8 +4168,8 @@
       "cash": 8892.821093996967,
       "btc": 0.013038821846157784,
       "entry": 75704.93355,
-      "day": "2026-11-07",
-      "day_start_equity": 9880.912326663296,
+      "day": "2026-11-08",
+      "day_start_equity": 9879.703441888956,
       "trades": [
         {
           "utc": 1790560800,
@@ -8293,6 +8301,14 @@
         {
           "utc": 1794088800,
           "equity": 9879.47
+        },
+        {
+          "utc": 1794092400,
+          "equity": 9880.56
+        },
+        {
+          "utc": 1794096000,
+          "equity": 9879.7
         }
       ]
     },
@@ -8300,7 +8316,7 @@
       "cash": 9969.146972586557,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-07",
+      "day": "2026-11-08",
       "day_start_equity": 9969.146972586557,
       "trades": [
         {
@@ -12278,11 +12294,19 @@
         {
           "utc": 1794088800,
           "equity": 9969.15
+        },
+        {
+          "utc": 1794092400,
+          "equity": 9969.15
+        },
+        {
+          "utc": 1794096000,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1794088800,
-  "updated_utc": "2026-11-07T23:56:18.352705+00:00",
+  "last_candle": 1794096000,
+  "updated_utc": "2026-11-08T01:36:49.349974+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
