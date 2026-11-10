@@ -2,9 +2,9 @@
   "started_utc": "2026-10-25T23:45:54.917100+00:00",
   "strategies": {
     "sma": {
-      "cash": 8780.114264418236,
-      "btc": 0.01299942790750798,
-      "entry": 74971.96725,
+      "cash": 9742.405129199227,
+      "btc": 0,
+      "entry": null,
       "day": "2026-11-10",
       "day_start_equity": 9754.847767321326,
       "trades": [
@@ -242,6 +242,11 @@
           "utc": 1794258000,
           "side": "BUY",
           "price": 74971.96725
+        },
+        {
+          "utc": 1794304800,
+          "side": "SELL",
+          "price": 74099.73160000001
         }
       ],
       "equity_history": [
@@ -4404,13 +4409,17 @@
         {
           "utc": 1794301200,
           "equity": 9747.44
+        },
+        {
+          "utc": 1794304800,
+          "equity": 9742.41
         }
       ]
     },
     "bollinger": {
-      "cash": 9886.515236790783,
-      "btc": 0,
-      "entry": null,
+      "cash": 8897.863713111705,
+      "btc": 0.013315509807702025,
+      "entry": 74173.86839999999,
       "day": "2026-11-10",
       "day_start_equity": 9886.515236790783,
       "trades": [
@@ -4633,6 +4642,11 @@
           "utc": 1794225600,
           "side": "SELL",
           "price": 74782.88985
+        },
+        {
+          "utc": 1794304800,
+          "side": "BUY",
+          "price": 74173.86839999999
         }
       ],
       "equity_history": [
@@ -8795,6 +8809,10 @@
         {
           "utc": 1794301200,
           "equity": 9886.52
+        },
+        {
+          "utc": 1794304800,
+          "equity": 9885.03
         }
       ]
     },
@@ -13016,11 +13034,15 @@
         {
           "utc": 1794301200,
           "equity": 9969.15
+        },
+        {
+          "utc": 1794304800,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1794301200,
-  "updated_utc": "2026-11-10T10:17:36.048638+00:00",
+  "last_candle": 1794304800,
+  "updated_utc": "2026-11-10T11:14:06.203501+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
