@@ -5,8 +5,8 @@
       "cash": 9742.405129199227,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-10",
-      "day_start_equity": 9754.847767321326,
+      "day": "2026-11-11",
+      "day_start_equity": 9742.405129199227,
       "trades": [
         {
           "utc": 1790665200,
@@ -4461,6 +4461,14 @@
         {
           "utc": 1794348000,
           "equity": 9742.41
+        },
+        {
+          "utc": 1794351600,
+          "equity": 9742.41
+        },
+        {
+          "utc": 1794355200,
+          "equity": 9742.41
         }
       ]
     },
@@ -4468,8 +4476,8 @@
       "cash": 8897.863713111705,
       "btc": 0.013315509807702025,
       "entry": 74173.86839999999,
-      "day": "2026-11-10",
-      "day_start_equity": 9886.515236790783,
+      "day": "2026-11-11",
+      "day_start_equity": 9875.808015428573,
       "trades": [
         {
           "utc": 1790560800,
@@ -8909,6 +8917,14 @@
         {
           "utc": 1794348000,
           "equity": 9877.96
+        },
+        {
+          "utc": 1794351600,
+          "equity": 9879.22
+        },
+        {
+          "utc": 1794355200,
+          "equity": 9875.81
         }
       ]
     },
@@ -8916,7 +8932,7 @@
       "cash": 9969.146972586557,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-10",
+      "day": "2026-11-11",
       "day_start_equity": 9969.146972586557,
       "trades": [
         {
@@ -13182,11 +13198,19 @@
         {
           "utc": 1794348000,
           "equity": 9969.15
+        },
+        {
+          "utc": 1794351600,
+          "equity": 9969.15
+        },
+        {
+          "utc": 1794355200,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1794348000,
-  "updated_utc": "2026-11-10T23:03:48.172370+00:00",
+  "last_candle": 1794355200,
+  "updated_utc": "2026-11-11T01:30:47.210828+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
