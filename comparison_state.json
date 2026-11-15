@@ -5,7 +5,7 @@
       "cash": 9735.653152228333,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-14",
+      "day": "2026-11-15",
       "day_start_equity": 9735.653152228333,
       "trades": [
         {
@@ -4855,6 +4855,14 @@
         {
           "utc": 1794693600,
           "equity": 9735.65
+        },
+        {
+          "utc": 1794697200,
+          "equity": 9735.65
+        },
+        {
+          "utc": 1794700800,
+          "equity": 9735.65
         }
       ]
     },
@@ -4862,8 +4870,8 @@
       "cash": 8820.106229702655,
       "btc": 0.01512266864847507,
       "entry": 64739.3535,
-      "day": "2026-11-14",
-      "day_start_equity": 9836.559860259855,
+      "day": "2026-11-15",
+      "day_start_equity": 9778.984743895919,
       "trades": [
         {
           "utc": 1790560800,
@@ -9727,6 +9735,14 @@
         {
           "utc": 1794693600,
           "equity": 9780.38
+        },
+        {
+          "utc": 1794697200,
+          "equity": 9789.7
+        },
+        {
+          "utc": 1794700800,
+          "equity": 9778.98
         }
       ]
     },
@@ -9734,7 +9750,7 @@
       "cash": 9969.146972586557,
       "btc": 0,
       "entry": null,
-      "day": "2026-11-14",
+      "day": "2026-11-15",
       "day_start_equity": 9969.146972586557,
       "trades": [
         {
@@ -14384,11 +14400,19 @@
         {
           "utc": 1794693600,
           "equity": 9969.15
+        },
+        {
+          "utc": 1794697200,
+          "equity": 9969.15
+        },
+        {
+          "utc": 1794700800,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1794693600,
-  "updated_utc": "2026-11-14T23:57:15.998078+00:00",
+  "last_candle": 1794700800,
+  "updated_utc": "2026-11-15T01:38:06.112171+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
