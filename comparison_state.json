@@ -5135,13 +5135,17 @@
         {
           "utc": 1794927600,
           "equity": 9721.09
+        },
+        {
+          "utc": 1794931200,
+          "equity": 9721.09
         }
       ]
     },
     "bollinger": {
-      "cash": 9775.652587845163,
-      "btc": 0,
-      "entry": null,
+      "cash": 8798.087329060647,
+      "btc": 0.015328775640160433,
+      "entry": 63709.438799999996,
       "day": "2026-11-17",
       "day_start_equity": 9765.047132015066,
       "trades": [
@@ -5424,6 +5428,11 @@
           "utc": 1794913200,
           "side": "SELL",
           "price": 64891.93780000001
+        },
+        {
+          "utc": 1794931200,
+          "side": "BUY",
+          "price": 63709.438799999996
         }
       ],
       "equity_history": [
@@ -10282,6 +10291,10 @@
         {
           "utc": 1794927600,
           "equity": 9775.65
+        },
+        {
+          "utc": 1794931200,
+          "equity": 9774.19
         }
       ]
     },
@@ -15199,11 +15212,15 @@
         {
           "utc": 1794927600,
           "equity": 9969.15
+        },
+        {
+          "utc": 1794931200,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1794927600,
-  "updated_utc": "2026-11-17T16:21:52.067325+00:00",
+  "last_candle": 1794931200,
+  "updated_utc": "2026-11-17T17:28:35.525919+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
