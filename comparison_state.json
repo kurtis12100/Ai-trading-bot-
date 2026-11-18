@@ -2,9 +2,9 @@
   "started_utc": "2026-10-25T23:45:54.917100+00:00",
   "strategies": {
     "sma": {
-      "cash": 8748.983904594295,
-      "btc": 0.015040634931056862,
-      "entry": 64567.56765,
+      "cash": 9704.043779440286,
+      "btc": 0,
+      "entry": null,
       "day": "2026-11-18",
       "day_start_equity": 9721.093227326995,
       "trades": [
@@ -282,6 +282,11 @@
           "utc": 1794981600,
           "side": "BUY",
           "price": 64567.56765
+        },
+        {
+          "utc": 1795010400,
+          "side": "SELL",
+          "price": 63562.203
         }
       ],
       "equity_history": [
@@ -5224,13 +5229,21 @@
         {
           "utc": 1795003200,
           "equity": 9711.77
+        },
+        {
+          "utc": 1795006800,
+          "equity": 9709.55
+        },
+        {
+          "utc": 1795010400,
+          "equity": 9704.04
         }
       ]
     },
     "bollinger": {
-      "cash": 9787.767372478469,
-      "btc": 0,
-      "entry": null,
+      "cash": 8808.990635230623,
+      "btc": 0.015367948326220562,
+      "entry": 63625.797,
       "day": "2026-11-18",
       "day_start_equity": 9787.767372478469,
       "trades": [
@@ -5523,6 +5536,11 @@
           "utc": 1794952800,
           "side": "SELL",
           "price": 64628.16975
+        },
+        {
+          "utc": 1795010400,
+          "side": "BUY",
+          "price": 63625.797
         }
       ],
       "equity_history": [
@@ -10465,6 +10483,14 @@
         {
           "utc": 1795003200,
           "equity": 9787.77
+        },
+        {
+          "utc": 1795006800,
+          "equity": 9787.77
+        },
+        {
+          "utc": 1795010400,
+          "equity": 9786.3
         }
       ]
     },
@@ -15466,11 +15492,19 @@
         {
           "utc": 1795003200,
           "equity": 9969.15
+        },
+        {
+          "utc": 1795006800,
+          "equity": 9969.15
+        },
+        {
+          "utc": 1795010400,
+          "equity": 9969.15
         }
       ]
     }
   },
-  "last_candle": 1795003200,
-  "updated_utc": "2026-11-18T13:44:54.409570+00:00",
+  "last_candle": 1795010400,
+  "updated_utc": "2026-11-18T15:21:04.803697+00:00",
   "assumptions": "USD; 0.1% fee and 0.05% slippage per side; 10% allocation; 3% close-based stop; 2% UTC-day circuit breaker; simulated hourly-close fills. No real orders."
 }
